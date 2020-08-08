@@ -7,6 +7,7 @@
 	<version>1.0.0</version>
 	<name>PrefixTree</name>
 	<description>Data structure</description>
+	<url>https://github.com/srsoftware-de/PrefixTree</url>
 	<organization>
 		<name>SRSoftware</name>
 		<url>https://srsoftware.de</url>
