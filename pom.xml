@@ -29,6 +29,13 @@
 		</developer>
 	</developers>
 
+	<scm>
+		<connection>scm:git:git://github.com/keawe-software/PrefixTree.git</connection>
+		<developerConnection>scm:git:git@github.com:keawe-software/PrefixTree.git</developerConnection>
+		<url>https://github.com/keawe-software/PrefixTree</url>
+		<tag>HEAD</tag>
+	</scm>
+
 	<build>
 		<plugins>
 			<plugin>
